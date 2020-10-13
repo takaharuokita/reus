@@ -116,7 +116,7 @@
         display: none
     }
     .head_logo img {
-        width: 70px
+        width: 120px
     }
     .head_btn {
         position: absolute;
@@ -254,8 +254,7 @@
         right: 0;
         bottom: 0;
         margin: auto;
-        width: 300px;
-        height: 300px
+        opacity: 0.4;
     }
     .gnav_wrap {
         display: none;
@@ -634,7 +633,7 @@
         display: inline-block
     }
     .main_v_area .txt_box .en {
-        font-size: 21px;
+        font-size: 17px;
         color: #fff;
         letter-spacing: .05em;
         margin-bottom: 30px
