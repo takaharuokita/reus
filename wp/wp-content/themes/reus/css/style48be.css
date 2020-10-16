@@ -3820,7 +3820,7 @@
         z-index: 1000
     }
     .head_logo img {
-        width: 56px
+        width: 100px
     }
     .second.disp .head_btn {
         position: fixed
@@ -4034,8 +4034,7 @@
         right: 0;
         bottom: 0;
         margin: auto;
-        width: 300px;
-        height: 300px
+        opacity: 0.4;
     }
     .gnav_wrap {
         display: none;
@@ -4328,7 +4327,7 @@
         margin-bottom: 18px
     }
     .main_v_area .top_logo img {
-        width: 72px
+        width: auto
     }
     .main_v_area .txt_box {
         position: absolute;
