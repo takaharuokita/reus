@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="108px" height="15px" viewBox="0 0 108 15" style="enable-background:new 0 0 108 15;" xml:space="preserve">
+	 y="0px" viewBox="0 0 108 15" style="enable-background:new 0 0 108 15;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
+	.st1{font-family:'MeiryoUI';}
+	.st2{font-size:12.4093px;}
 </style>
-<g>
-	<path class="st0" d="M4.2,0.3c1.6,0,2.7,0.2,3.8,1.1c1.2,1,1.5,2.4,1.5,3.5c0,0.6-0.1,2.1-1.2,3.2c-0.8,0.8-2,1.3-3.6,1.3H2.8v5.3
-		H0V0.3H4.2z M2.8,7h1.1c0.5,0,1.2,0,1.8-0.5c0.5-0.4,0.8-1.1,0.8-1.7c0-0.8-0.4-1.3-0.8-1.6c-0.6-0.4-1.3-0.5-2-0.5h-1
-		C2.8,2.7,2.8,7,2.8,7z"/>
-	<path class="st0" d="M14.7,0.3v11.9h4.4v2.4h-7.2V0.3H14.7z"/>
-	<path class="st0" d="M29.9,11.7h-5.8l-1.3,3h-3L26,0.3h2.2l6,14.4h-3L29.9,11.7z M29.1,9.4l-2-5.2l-2,5.2H29.1z"/>
-	<path class="st0" d="M36.3,14.7V0.3h1.9L47,9.9V0.3h2.8v14.4h-1.9l-8.7-9.6v9.6H36.3z"/>
-	<path class="st0" d="M53.4,14.7V0.3h1.9l8.7,9.6V0.3h2.8v14.4h-1.9l-8.7-9.6v9.6C56.2,14.7,53.4,14.7,53.4,14.7z"/>
-	<path class="st0" d="M73.4,0.3v14.4h-2.8V0.3H73.4z"/>
-	<path class="st0" d="M77.1,14.7V0.3H79l8.7,9.6V0.3h2.8v14.4h-1.9l-8.7-9.6v9.6C79.8,14.7,77.1,14.7,77.1,14.7z"/>
-	<path class="st0" d="M101.4,7h6.6v0.2c0,1-0.1,4-2.1,5.9c-1.5,1.5-3.3,1.9-5.1,1.9c-1.8,0-3.6-0.4-5.2-1.9
-		c-0.5-0.5-2.1-2.3-2.1-5.5c0-2.8,1.2-4.5,2.1-5.3c1.1-1.1,2.9-2.2,5.6-2.2c1.1,0,2.2,0.2,3.3,0.8c0.9,0.5,1.9,1.3,2.7,2.6l-2.4,1.3
-		c-0.5-1-1.2-1.5-1.7-1.7c-0.6-0.3-1.4-0.5-2-0.5c-1.1,0-2.4,0.4-3.3,1.3C97,4.6,96.4,6,96.4,7.6c0,1.9,0.8,3.1,1.4,3.6
-		c0.6,0.6,1.7,1.2,3.2,1.2c0.9,0,2-0.3,2.8-0.9c0.6-0.4,1.1-1.2,1.4-2.2h-3.7V7z"/>
-</g>
+<font horiz-adv-x="2048">
+<!-- Meiryo is a trademark of the Microsoft group of companies. -->
+<!-- Copyright: Copyright 2020 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="MeiryoUI" units-per-em="2048" underline-position="-205" underline-thickness="102"/>
+<missing-glyph horiz-adv-x="2048" d="M256,0l0,1536l1536,0l0,-1536M384,128l1280,0l0,1280l-1280,0z"/>
+<glyph unicode="E" horiz-adv-x="1265" d="M1166,0l-981,0l0,1507l981,0l0,-162l-795,0l0,-439l775,0l0,-162l-775,0l0,-582l795,0z"/>
+<glyph unicode="I" horiz-adv-x="826" d="M703,0l-581,0l0,139l198,0l0,1229l-198,0l0,139l581,0l0,-139l-197,0l0,-1229l197,0z"/>
+<glyph unicode="M" horiz-adv-x="1701" d="M1516,0l-186,0l0,1294l-435,-884l-102,0l-435,884l0,-1294l-173,0l0,1507l238,0l427,-867l426,867l240,0z"/>
+<glyph unicode="N" horiz-adv-x="1518" d="M1333,0l-216,0l-759,1308l0,-1308l-173,0l0,1507l258,0l717,-1236l0,1236l173,0z"/>
+<glyph unicode="S" horiz-adv-x="1300" d="M647,-27C478,-27 300,15 114,99l0,227l13,0C280,195 454,130 649,130C769,130 863,155 932,204C1000,253 1034,318 1034,399C1034,462 1020,511 991,547C962,582 911,610 839,630l-336,68C378,724 284,771 220,840C155,908 123,997 123,1106C123,1230 173,1332 273,1413C373,1494 503,1534 664,1534C832,1534 1000,1497 1168,1423l0,-219l-14,0C1015,1319 852,1377 664,1377C560,1377 476,1354 413,1308C349,1262 317,1202 317,1127C317,1002 390,922 535,886C619,871 713,852 816,829C919,806 992,782 1037,757C1081,732 1117,703 1145,671C1172,639 1193,603 1207,562C1220,521 1227,476 1227,427C1227,296 1174,188 1068,102C962,16 822,-27 647,-27z"/>
+<glyph unicode="T" horiz-adv-x="1302" d="M558,0l0,1345l-535,0l0,162l1256,0l0,-162l-535,0l0,-1345z"/>
+<glyph unicode="V" horiz-adv-x="1398" d="M1380,1507l-595,-1507l-172,0l-595,1507l199,0l488,-1253l486,1253z"/>
+</font>
+
+	<text transform="matrix(1 0 0 1 13.8115 14.9473)" class="st0 st1 st2">INVESTMENT</text>
 </svg>

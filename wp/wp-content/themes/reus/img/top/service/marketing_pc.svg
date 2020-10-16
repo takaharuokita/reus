@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="123px" height="15px" viewBox="0 0 123 15" style="enable-background:new 0 0 123 15;" xml:space="preserve">
+	 y="0px" viewBox="0 0 108 15" style="enable-background:new 0 0 108 15;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
+	.st1{font-family:'MeiryoUI';}
+	.st2{font-size:12.4093px;}
 </style>
-<g>
-	<path class="st0" d="M2.7,0.3h2.1l3.9,9.1l4.1-9.1h2.1l2.5,14.4h-2.9l-1.3-8.8l-3.9,8.8h-1L4.4,5.8l-1.5,8.8H0L2.7,0.3z"/>
-	<path class="st0" d="M29,11.7h-5.9l-1.3,3h-3.1L25,0.3h2.2l6.1,14.4h-3.1L29,11.7z M28.2,9.4l-2.1-5.2L24,9.4H28.2z"/>
-	<path class="st0" d="M39.8,0.3c2,0,3.1,0.5,3.7,1.1C44.7,2.3,45,3.6,45,4.6C45,6,44.4,7.3,43.3,8c-0.4,0.3-0.9,0.5-1.6,0.6l4.6,6
-		h-3.6l-3.9-5.8h-0.4v5.8h-2.9V0.3H39.8z M38.4,6.9h0.8c0.6,0,2.8-0.1,2.8-2.2c0-2.1-2.2-2.2-2.8-2.2h-0.9V6.9z"/>
-	<path class="st0" d="M51.5,6.4l5.4-6.1h3.6L54.3,7l6.5,7.7h-3.8l-5.2-6.4l-0.3,0.3v6.1h-2.9V0.3h2.9V6.4z"/>
-	<path class="st0" d="M71.2,2.7h-5.3v3.2H71v2.4h-5.1v3.9h5.3v2.4h-8.1V0.3h8.1V2.7z"/>
-	<path class="st0" d="M79.1,2.7v11.9h-2.9V2.7h-3.3V0.3h9.5v2.4H79.1z"/>
-	<path class="st0" d="M87.5,0.3v14.4h-2.9V0.3H87.5z"/>
-	<path class="st0" d="M91.3,14.7V0.3h2l8.9,9.6V0.3h2.9v14.4h-2l-8.9-9.6v9.6C94.1,14.7,91.3,14.7,91.3,14.7z"/>
-	<path class="st0" d="M116.3,7h6.7v0.2c0,1-0.1,4-2.2,5.9c-1.5,1.5-3.4,1.9-5.2,1.9c-1.8,0-3.7-0.4-5.3-1.9
-		c-0.5-0.5-2.2-2.3-2.2-5.5c0-2.8,1.3-4.5,2.2-5.3c1.1-1.1,2.9-2.2,5.8-2.2c1.1,0,2.3,0.2,3.4,0.8c0.9,0.5,2,1.3,2.8,2.6l-2.5,1.3
-		c-0.5-1-1.3-1.5-1.7-1.7c-0.6-0.3-1.4-0.5-2.1-0.5c-1.2,0-2.5,0.4-3.4,1.3c-0.8,0.8-1.5,2.2-1.5,3.8c0,1.9,0.8,3.1,1.5,3.6
-		c0.7,0.6,1.7,1.2,3.3,1.2c1,0,2.1-0.3,2.9-0.9c0.6-0.4,1.1-1.2,1.4-2.2h-3.8L116.3,7L116.3,7z"/>
-</g>
+<font horiz-adv-x="2048">
+<!-- Meiryo is a trademark of the Microsoft group of companies. -->
+<!-- Copyright: Copyright 2020 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="MeiryoUI" units-per-em="2048" underline-position="-205" underline-thickness="102"/>
+<missing-glyph horiz-adv-x="2048" d="M256,0l0,1536l1536,0l0,-1536M384,128l1280,0l0,1280l-1280,0z"/>
+<glyph unicode="A" horiz-adv-x="1388" d="M960,585l-271,743l-270,-743M1171,0l-155,430l-654,0l-155,-430l-189,0l558,1507l237,0l557,-1507z"/>
+<glyph unicode="D" horiz-adv-x="1533" d="M185,0l0,1507l363,0C760,1507 927,1479 1048,1424C1169,1369 1265,1284 1336,1171C1406,1057 1441,917 1441,752C1441,547 1375,370 1242,222C1109,74 879,0 552,0M371,1349l0,-1191l194,0C803,158 976,208 1084,309C1192,410 1246,558 1246,755C1246,942 1191,1087 1082,1192C973,1297 800,1349 565,1349z"/>
+<glyph unicode="E" horiz-adv-x="1265" d="M1166,0l-981,0l0,1507l981,0l0,-162l-795,0l0,-439l775,0l0,-162l-775,0l0,-582l795,0z"/>
+<glyph unicode="I" horiz-adv-x="826" d="M703,0l-581,0l0,139l198,0l0,1229l-198,0l0,139l581,0l0,-139l-197,0l0,-1229l197,0z"/>
+<glyph unicode="M" horiz-adv-x="1701" d="M1516,0l-186,0l0,1294l-435,-884l-102,0l-435,884l0,-1294l-173,0l0,1507l238,0l427,-867l426,867l240,0z"/>
+<glyph unicode="N" horiz-adv-x="1518" d="M1333,0l-216,0l-759,1308l0,-1308l-173,0l0,1507l258,0l717,-1236l0,1236l173,0z"/>
+<glyph unicode="O" horiz-adv-x="1561" d="M780,-31C566,-31 398,38 276,177C154,315 93,507 93,753C93,998 154,1191 277,1330C399,1469 567,1538 780,1538C994,1538 1162,1469 1285,1330C1407,1191 1468,998 1468,753C1468,508 1407,317 1285,178C1162,39 994,-31 780,-31M781,1379C625,1379 504,1324 417,1215C330,1106 287,952 287,753C287,554 330,401 417,292C504,183 625,128 781,128C936,128 1057,183 1144,292C1231,401 1274,554 1274,753C1274,953 1231,1107 1144,1216C1057,1325 936,1379 781,1379z"/>
+<glyph unicode="T" horiz-adv-x="1302" d="M558,0l0,1345l-535,0l0,162l1256,0l0,-162l-535,0l0,-1345z"/>
+</font>
+
+	<text transform="matrix(1 0 0 1 18.8115 14.9473)" class="st0 st1 st2">MEDIATION</text>
 </svg>

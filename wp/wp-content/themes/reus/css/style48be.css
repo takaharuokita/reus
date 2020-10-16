@@ -693,7 +693,7 @@
     .top_sc1 .txt_box {
         font-size: 15px;
         line-height: 34px;
-        margin-bottom: 100px;
+        margin-bottom: 10px;
         text-align: center
     }
     .top_sc1 .img_box {
@@ -734,7 +734,7 @@
         width: 255px;
         float: left;
         margin-right: 26px;
-        background-color: rgba(161, 182, 196, .8)
+        background-color: rgb(210 196 187)
     }
     .top_sc2 .service_list>li:last-child {
         margin-right: 0
@@ -749,8 +749,10 @@
         margin-bottom: 15px
     }
     .top_sc2 .service_list>li h3 span {
-        font-size: 14px;
-        display: block
+        font-size: 18px;
+        display: block;
+        color: #ffffff;
+        text-shadow: 0px 1px 2px #3a352d;
     }
     .top_sc2 .service_list>li h3 a {
         display: block
@@ -777,7 +779,7 @@
         min-height: 205px
     }
     .top_sc2 .service_list>li .service_detail_list>li {
-        color: #fff;
+        color: #795959;
         font-size: 14px;
         font-weight: 700;
         margin-bottom: 10px;
@@ -858,12 +860,12 @@
         display: inline-block;
         width: 30px;
         height: 30px;
-        border-left: 1px solid #0c2041;
-        border-bottom: 1px solid #0c2041;
+        border-left: 1px solid #806e66;
+        border-bottom: 1px solid #806e66;
         transform: rotate(45deg);
         position: absolute;
         top: 29%;
-        left: 30px
+        left: 12%
     }
     .slider_works .prev_arrow a {
         display: block;
@@ -878,12 +880,12 @@
         display: inline-block;
         width: 30px;
         height: 30px;
-        border-right: 1px solid #0c2041;
-        border-bottom: 1px solid #0c2041;
+        border-right: 1px solid #806e66;
+        border-bottom: 1px solid #806e66;
         transform: rotate(-45deg);
         position: absolute;
         top: 29%;
-        right: 30px
+        right: 35%;
     }
     .slider_works .next_arrow a {
         display: block;
@@ -897,13 +899,13 @@
     .slider_works .works_list_pc {
         position: absolute;
         top: 0;
-        left: 48px;
+        left: -50px;
         background: url(../img/common/bg_workspc.png);
         background-repeat: no-repeat;
-        background-size: 674px auto;
-        width: 674px;
-        height: 600px;
-        padding: 23px 0
+        background-size: 790px auto;
+        width: 790px;
+        height: 463px;
+        padding: 50px 0;
     }
     .slider_works .works_list_pc img {
         width: 618px
@@ -912,6 +914,7 @@
         opacity: .8
     }
     .slider_works .works_list_sp {
+        display: none;
         position: absolute;
         top: 195px;
         right: 110px;
@@ -1493,7 +1496,13 @@
         display: inline-block;
         padding-right: 150px;
         margin-right: -50px;
-        position: relative
+        position: relative;
+        color: #532820;
+        font-size: 27px;
+        line-height: 0.5;
+        font-family: serif;
+        font-weight: 600;
+        letter-spacing: 3px;
     }
     .btn:hover .arrow {
         background-color: #86a7bd
@@ -1514,7 +1523,7 @@
         display: inline-block;
         height: 1px;
         width: 90px;
-        background-color: #192c4b;
+        background-color: #532820;
         transition: all .6s cubic-bezier(.83, 0, .06, 1)
     }
     .btn .arrow:after {
@@ -1524,11 +1533,12 @@
         content: "";
         width: 15px;
         height: 1px;
-        background-color: #192c4b;
+        background-color: #532820;
+        ;
         transform: rotate(50deg)
     }
     .btn_contact:hover {
-        background-color: #c4dadf
+        background-color: #6ab6c7
     }
     .btn_contact:hover .arrow {
         right: 0;
@@ -7504,10 +7514,10 @@ body::-webkit-scrollbar {
 
 @charset "UTF-8";
 html {
-    font-size: 15px;
+    font-size: 18px;
     line-height: 1.2;
     font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, "MS ゴシック", "MS Gothic", sans-serif;
-    color: #0c2041
+    color: #532820
 }
 
 .f_opensans {
