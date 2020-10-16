@@ -633,7 +633,7 @@
         display: inline-block
     }
     .main_v_area .txt_box .en {
-        font-size: 17px;
+        font-size: 21px;
         color: #fff;
         letter-spacing: .05em;
         margin-bottom: 30px
@@ -4328,7 +4328,7 @@
         margin-bottom: 18px
     }
     .main_v_area .top_logo img {
-        width: 210px
+        width: 72px
     }
     .main_v_area .txt_box {
         position: absolute;
