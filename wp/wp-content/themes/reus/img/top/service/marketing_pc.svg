@@ -1,26 +1,137 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 108 15" style="enable-background:new 0 0 108 15;" xml:space="preserve">
-<style type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="marketing_pc.svg"
+   xml:space="preserve"
+   style="enable-background:new 0 0 108 15;"
+   viewBox="0 0 108 15"
+   y="0px"
+   x="0px"
+   id="レイヤー_1"
+   version="1.1"><metadata
+   id="metadata33"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs31"><filter
+     id="filter45"
+     inkscape:label="Drop Shadow"
+     style="color-interpolation-filters:sRGB;"><feFlood
+       id="feFlood35"
+       result="flood"
+       flood-color="rgb(0,0,0)"
+       flood-opacity="0.341176" /><feComposite
+       id="feComposite37"
+       result="composite1"
+       operator="in"
+       in2="SourceGraphic"
+       in="flood" /><feGaussianBlur
+       id="feGaussianBlur39"
+       result="blur"
+       stdDeviation="0.7"
+       in="composite1" /><feOffset
+       id="feOffset41"
+       result="offset"
+       dy="1"
+       dx="0.3" /><feComposite
+       id="feComposite43"
+       result="composite2"
+       operator="over"
+       in2="offset"
+       in="SourceGraphic" /></filter></defs><sodipodi:namedview
+   inkscape:current-layer="レイヤー_1"
+   inkscape:window-maximized="0"
+   inkscape:window-y="0"
+   inkscape:window-x="0"
+   inkscape:cy="13.254467"
+   inkscape:cx="52.150082"
+   inkscape:zoom="4.0298539"
+   showgrid="false"
+   id="namedview29"
+   inkscape:window-height="480"
+   inkscape:window-width="712"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<style
+   id="style2"
+   type="text/css">
 	.st0{fill:#FFFFFF;}
 	.st1{font-family:'MeiryoUI';}
 	.st2{font-size:12.4093px;}
 </style>
-<font horiz-adv-x="2048">
+<font
+   id="font24"
+   horiz-adv-x="2048">
 <!-- Meiryo is a trademark of the Microsoft group of companies. -->
 <!-- Copyright: Copyright 2020 Adobe System Incorporated. All rights reserved. -->
-<font-face font-family="MeiryoUI" units-per-em="2048" underline-position="-205" underline-thickness="102"/>
-<missing-glyph horiz-adv-x="2048" d="M256,0l0,1536l1536,0l0,-1536M384,128l1280,0l0,1280l-1280,0z"/>
-<glyph unicode="A" horiz-adv-x="1388" d="M960,585l-271,743l-270,-743M1171,0l-155,430l-654,0l-155,-430l-189,0l558,1507l237,0l557,-1507z"/>
-<glyph unicode="D" horiz-adv-x="1533" d="M185,0l0,1507l363,0C760,1507 927,1479 1048,1424C1169,1369 1265,1284 1336,1171C1406,1057 1441,917 1441,752C1441,547 1375,370 1242,222C1109,74 879,0 552,0M371,1349l0,-1191l194,0C803,158 976,208 1084,309C1192,410 1246,558 1246,755C1246,942 1191,1087 1082,1192C973,1297 800,1349 565,1349z"/>
-<glyph unicode="E" horiz-adv-x="1265" d="M1166,0l-981,0l0,1507l981,0l0,-162l-795,0l0,-439l775,0l0,-162l-775,0l0,-582l795,0z"/>
-<glyph unicode="I" horiz-adv-x="826" d="M703,0l-581,0l0,139l198,0l0,1229l-198,0l0,139l581,0l0,-139l-197,0l0,-1229l197,0z"/>
-<glyph unicode="M" horiz-adv-x="1701" d="M1516,0l-186,0l0,1294l-435,-884l-102,0l-435,884l0,-1294l-173,0l0,1507l238,0l427,-867l426,867l240,0z"/>
-<glyph unicode="N" horiz-adv-x="1518" d="M1333,0l-216,0l-759,1308l0,-1308l-173,0l0,1507l258,0l717,-1236l0,1236l173,0z"/>
-<glyph unicode="O" horiz-adv-x="1561" d="M780,-31C566,-31 398,38 276,177C154,315 93,507 93,753C93,998 154,1191 277,1330C399,1469 567,1538 780,1538C994,1538 1162,1469 1285,1330C1407,1191 1468,998 1468,753C1468,508 1407,317 1285,178C1162,39 994,-31 780,-31M781,1379C625,1379 504,1324 417,1215C330,1106 287,952 287,753C287,554 330,401 417,292C504,183 625,128 781,128C936,128 1057,183 1144,292C1231,401 1274,554 1274,753C1274,953 1231,1107 1144,1216C1057,1325 936,1379 781,1379z"/>
-<glyph unicode="T" horiz-adv-x="1302" d="M558,0l0,1345l-535,0l0,162l1256,0l0,-162l-535,0l0,-1345z"/>
+<font-face
+   id="font-face4"
+   underline-thickness="102"
+   underline-position="-205"
+   units-per-em="2048"
+   font-family="MeiryoUI" />
+<missing-glyph
+   id="missing-glyph6"
+   d="M256,0l0,1536l1536,0l0,-1536M384,128l1280,0l0,1280l-1280,0z"
+   horiz-adv-x="2048" />
+<glyph
+   id="glyph8"
+   d="M960,585l-271,743l-270,-743M1171,0l-155,430l-654,0l-155,-430l-189,0l558,1507l237,0l557,-1507z"
+   horiz-adv-x="1388"
+   unicode="A" />
+<glyph
+   id="glyph10"
+   d="M185,0l0,1507l363,0C760,1507 927,1479 1048,1424C1169,1369 1265,1284 1336,1171C1406,1057 1441,917 1441,752C1441,547 1375,370 1242,222C1109,74 879,0 552,0M371,1349l0,-1191l194,0C803,158 976,208 1084,309C1192,410 1246,558 1246,755C1246,942 1191,1087 1082,1192C973,1297 800,1349 565,1349z"
+   horiz-adv-x="1533"
+   unicode="D" />
+<glyph
+   id="glyph12"
+   d="M1166,0l-981,0l0,1507l981,0l0,-162l-795,0l0,-439l775,0l0,-162l-775,0l0,-582l795,0z"
+   horiz-adv-x="1265"
+   unicode="E" />
+<glyph
+   id="glyph14"
+   d="M703,0l-581,0l0,139l198,0l0,1229l-198,0l0,139l581,0l0,-139l-197,0l0,-1229l197,0z"
+   horiz-adv-x="826"
+   unicode="I" />
+<glyph
+   id="glyph16"
+   d="M1516,0l-186,0l0,1294l-435,-884l-102,0l-435,884l0,-1294l-173,0l0,1507l238,0l427,-867l426,867l240,0z"
+   horiz-adv-x="1701"
+   unicode="M" />
+<glyph
+   id="glyph18"
+   d="M1333,0l-216,0l-759,1308l0,-1308l-173,0l0,1507l258,0l717,-1236l0,1236l173,0z"
+   horiz-adv-x="1518"
+   unicode="N" />
+<glyph
+   id="glyph20"
+   d="M780,-31C566,-31 398,38 276,177C154,315 93,507 93,753C93,998 154,1191 277,1330C399,1469 567,1538 780,1538C994,1538 1162,1469 1285,1330C1407,1191 1468,998 1468,753C1468,508 1407,317 1285,178C1162,39 994,-31 780,-31M781,1379C625,1379 504,1324 417,1215C330,1106 287,952 287,753C287,554 330,401 417,292C504,183 625,128 781,128C936,128 1057,183 1144,292C1231,401 1274,554 1274,753C1274,953 1231,1107 1144,1216C1057,1325 936,1379 781,1379z"
+   horiz-adv-x="1561"
+   unicode="O" />
+<glyph
+   id="glyph22"
+   d="M558,0l0,1345l-535,0l0,162l1256,0l0,-162l-535,0l0,-1345z"
+   horiz-adv-x="1302"
+   unicode="T" />
 </font>
 
-	<text transform="matrix(1 0 0 1 18.8115 14.9473)" class="st0 st1 st2">MEDIATION</text>
+	<text
+   y="12.9473"
+   x="18.811501"
+   style="filter:url(#filter45)"
+   id="text26"
+   class="st0 st1 st2">MEDIATION</text>
 </svg>

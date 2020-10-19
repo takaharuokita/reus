@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="footer-logo_sp.svg"
+   sodipodi:docname="top-logo_black.svg"
    xml:space="preserve"
    style="enable-background:new 0 0 99 34;"
    viewBox="0 0 99 34"
@@ -166,7 +166,40 @@
        id="stop93" /><stop
        offset="1"
        style="stop-color:#5E7691"
-       id="stop95" /></linearGradient></defs><sodipodi:namedview
+       id="stop95" /></linearGradient><filter
+     id="filter815"
+     inkscape:label="Drop Shadow"
+     style="color-interpolation-filters:sRGB;"><feColorMatrix
+       result="fbSourceGraphic"
+       id="feColorMatrix813"
+       values="-10 -10 -10 0.843373 0 -10 -10 -10 0.843373 0 -10 -10 -10 0.843373 0 0 0 0 1 0 " /><feColorMatrix
+       id="feColorMatrix817"
+       values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+       in="fbSourceGraphic"
+       result="fbSourceGraphicAlpha" /><feFlood
+       in="fbSourceGraphic"
+       result="flood"
+       flood-color="rgb(255,190,115)"
+       flood-opacity="0.498039"
+       id="feFlood819" /><feComposite
+       result="composite1"
+       operator="in"
+       in="flood"
+       id="feComposite821"
+       in2="fbSourceGraphic" /><feGaussianBlur
+       result="blur"
+       stdDeviation="0.7"
+       in="composite1"
+       id="feGaussianBlur823" /><feOffset
+       result="offset"
+       dy="1"
+       dx="0.3"
+       id="feOffset825" /><feComposite
+       result="composite2"
+       operator="over"
+       in="fbSourceGraphic"
+       id="feComposite827"
+       in2="offset" /></filter></defs><sodipodi:namedview
    inkscape:current-layer="レイヤー_1"
    inkscape:window-maximized="1"
    inkscape:window-y="-6"
@@ -193,7 +226,8 @@
 </style>
 
 <g
-   transform="translate(0.70695406,-0.653659)"
+   style="filter:url(#filter815)"
+   transform="translate(0.7069541,-0.653659)"
    id="g100"><linearGradient
      id="linearGradient185"
      gradientUnits="userSpaceOnUse"

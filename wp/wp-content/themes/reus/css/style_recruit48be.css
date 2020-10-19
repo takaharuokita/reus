@@ -1,5 +1,16 @@
 @charset "UTF-8";
 @media screen and (min-width:769px) {
+    body {
+        overflow-x: hidden;
+        -ms-overflow-style: none;
+        /* IE, Edge ?? */
+        scrollbar-width: none;
+        /* Firefox ?? */
+    }
+    body::-webkit-scrollbar {
+        /* Chrome, Safari ?? */
+        display: none;
+    }
     .css404 {
         font-size: 15px;
         border-radius: 5px;
