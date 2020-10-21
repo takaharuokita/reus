@@ -961,8 +961,8 @@
     .slider_works .works_list_tl {
         position: absolute;
         width: 500px;
-        left: 48px;
-        bottom: 0;
+        left: -12%;
+        bottom: 25%;
         height: 18px
     }
     .slider_works .works_list_tl li {
@@ -1693,7 +1693,7 @@
     #scroll_down a span::before {
         position: absolute;
         top: 8px;
-        left: 52%;
+        left: 54%;
         content: '';
         width: 5px;
         height: 5px;
@@ -1848,8 +1848,8 @@
     }
     .nav_sns_list {
         position: fixed;
-        bottom: 80px;
-        left: 100px
+        bottom: 150px;
+        right: 200px
     }
     .nav_sns_list li {
         float: left;
@@ -2423,9 +2423,9 @@
     }
     .page_nav_inner .page_nav_list li span {
         display: block;
-        padding-top: 5px;
+        margin-top: -5%;
         font-size: 13px;
-        color: #a4adbc
+        color: #b18888;
     }
     .page_nav_inner .page_nav_list li:before {
         content: "";
@@ -2791,13 +2791,13 @@
         vertical-align: bottom
     }
     .service_sc1 .tl_h2 img {
-        height: 22px;
+        height: 46px;
         width: auto
     }
     .service_sc1 .tl_h2 span {
         font-size: 12px;
         font-weight: 700;
-        margin-left: 5px;
+        margin-left: -4%;
         display: inline-block
     }
     .service_sc1 .tl_h2 span:before {
@@ -2841,8 +2841,7 @@
         margin-bottom: 50px
     }
     .service_sc1 .service_list .list_box {
-        background-color: #aabdca;
-        background-color: rgba(161, 182, 196, .8);
+        background-color: #a98d81;
         box-sizing: border-box;
         padding: 40px 25px 35px;
         text-align: center
@@ -2940,8 +2939,7 @@
         float: left
     }
     .service_sc2 .service_list .list_box {
-        background-color: #aabdca;
-        background-color: rgba(161, 182, 196, .8);
+        background-color: #a98d81;
         box-sizing: border-box;
         padding: 30px 20px 35px;
         text-align: center
@@ -3041,8 +3039,7 @@
         float: left
     }
     .service_sc3 .service_list .list_box {
-        background-color: #aabdca;
-        background-color: rgba(161, 182, 196, .8);
+        background-color: #a98d81;
         box-sizing: border-box;
         padding: 30px 20px 35px;
         text-align: center
@@ -3143,8 +3140,7 @@
         float: left
     }
     .service_sc4 .service_list .list_box {
-        background-color: #aabdca;
-        background-color: rgba(161, 182, 196, .8);
+        background-color: #a98d81;
         box-sizing: border-box;
         padding: 30px 20px 45px;
         text-align: center
@@ -4638,7 +4634,7 @@
         height: 16px
     }
     .top_sc3 .read_box {
-        margin-bottom: 50px;
+        margin-bottom: 0px;
         background: url(../img/top/img/bg_wroks_sp.png) center;
         background-repeat: no-repeat;
         background-size: 90% auto;
@@ -4743,7 +4739,7 @@
         background-repeat: no-repeat;
         background-size: 100% auto;
         width: 82%;
-        padding: 3.1% 3.6% 30.2%
+        padding: 3.1% 3.6% 18.2%
     }
     .top_sc3 .slider_works .works_list_pc img {
         width: 618px
@@ -4965,6 +4961,8 @@
         z-index: 100;
         color: #796e6e;
         font-size: 13px;
+        writing-mode: vertical-lr;
+        transform: rotateZ(180deg);
         text-shadow: 1px 1px 2px #c3ac9c;
     }
     .top_sc5 {
@@ -5469,7 +5467,7 @@
         width: 25px;
         height: 45px;
         margin-left: -12px;
-        border: 1px solid #0c2041;
+        border: 1px solid #532820;
         border-radius: 50px;
         box-sizing: border-box
     }
@@ -5481,7 +5479,7 @@
         width: 5px;
         height: 5px;
         margin-left: -3px;
-        background-color: #0c2041;
+        background-color: #532820;
         border-radius: 100%;
         -webkit-animation: sdb10 2s infinite;
         animation: sdb10 2s infinite;
@@ -5526,7 +5524,7 @@
     }
     .topice_path li {
         display: inline;
-        color: #808b9e;
+        color: #806e66;
         font-size: 11px
     }
     .topice_path li:after {
@@ -5617,26 +5615,26 @@
     }
     .nav_sns_list {
         position: fixed;
-        top: 230px;
-        right: 20px
+        bottom: 3%;
+        left: 50px;
     }
     .nav_sns_list li {
         text-align: center;
-        margin: 0 0 40px 0
+        margin: 0 0 18px 0
     }
     .nav_sns_list .sns_tw {
         padding-top: 3px
     }
     .nav_sns_list .icon_tw {
-        fill: #fff;
+        fill: #532820;
         width: 24px;
         height: 20px
     }
     .nav_sns_list .icon_fb {
-        fill: #fff
+        fill: #532820
     }
     .nav_sns_list #icon_in {
-        fill: #fff;
+        fill: #532820;
         width: 24px;
         height: 24px
     }
@@ -6128,7 +6126,7 @@
         background: url(../img/aboutus/bg_tl_whatwedo%402x.png);
         background-size: cover;
         background-position: top center;
-        padding: 32px 0;
+        padding: 42px 0 6px;
         position: relative
     }
     .aboutus_sc1 .h2_txt_wrap .top_sc4 .read_box:after {
@@ -6439,8 +6437,9 @@
         vertical-align: bottom
     }
     .service_sc1 .tl_h2 img {
-        height: 50px;
-        width: auto
+        height: 36px;
+        width: auto;
+        margin-left: 12%;
     }
     .service_sc1 .tl_h2 span {
         margin-top: 10px;
@@ -7488,7 +7487,8 @@
 }
 
 html {
-    overflow-y: scroll
+    overflow-y: scroll;
+    scroll-behavior: smooth;
 }
 
 body {
