@@ -6193,10 +6193,11 @@
     }
     .aboutus_sc2 .h2_txt_wrap {
         background: url(../img/aboutus/philo-img_sp%402x.png);
-        background-size: 90% auto;
-        background-position: top right;
+        background-size: 100% auto;
+        background-position: center;
+        background-position-y: 48px;
         background-repeat: no-repeat;
-        padding: 32px 0;
+        padding: 0px 0px 50px;
         position: relative
     }
     .aboutus_sc2 .h2_txt_wrap .top_sc4 .read_box:after {
@@ -6213,11 +6214,11 @@
         color: #fff;
         font-size: 28px;
         line-height: 40px;
-        width: 60px;
-        height: 250px;
+        width: 75px;
+        height: 380px;
         display: block;
         margin: 0 auto 0;
-        padding: 20px 0;
+        padding: 22px 0;
         white-space: nowrap;
         text-indent: 100%;
         overflow: hidden;
@@ -6438,12 +6439,12 @@
         vertical-align: bottom
     }
     .service_sc1 .tl_h2 img {
-        height: 16px;
+        height: 50px;
         width: auto
     }
     .service_sc1 .tl_h2 span {
         margin-top: 10px;
-        font-size: 12px;
+        font-size: 14px;
         font-weight: 700;
         margin-left: 5px;
         letter-spacing: 1px;
