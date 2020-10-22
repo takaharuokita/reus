@@ -937,9 +937,9 @@
     .slider_works .works_list_pc img {
         width: 618px
     }
-    .slider_works .works_list_pc img:hover {
+    /* .slider_works .works_list_pc img:hover {
         opacity: .8
-    }
+    } */
     .slider_works .works_list_sp {
         display: none;
         position: absolute;
@@ -2864,7 +2864,8 @@
         margin-left: -10px
     }
     .service_sc1 .service_list .list_box img {
-        margin-bottom: 35px
+        margin-bottom: 35px;
+        width: 80px;
     }
     .service_sc1 .service_list .list_box p {
         font-size: 13px;
@@ -2889,8 +2890,9 @@
         text-align: right
     }
     .service_sc2 .tl_h2 img {
-        height: 22px;
-        width: auto
+        height: 46px;
+        width: auto;
+        transform: translateX(30%);
     }
     .service_sc2 .tl_h2 span {
         font-size: 12px;
@@ -2962,7 +2964,8 @@
         margin-left: -10px
     }
     .service_sc2 .service_list .list_box img {
-        margin-bottom: 35px
+        margin-bottom: 35px;
+        width: 80px;
     }
     .service_sc2 .service_list .list_box p {
         padding: 0 10px 10px;
@@ -2988,13 +2991,13 @@
         text-align: left
     }
     .service_sc3 .tl_h2 img {
-        height: 22px;
+        height: 46px;
         width: auto
     }
     .service_sc3 .tl_h2 span {
         font-size: 12px;
         font-weight: 700;
-        margin-left: 5px;
+        margin-left: -6%;
         display: inline-block
     }
     .service_sc3 .tl_h2 span:before {
@@ -3034,6 +3037,16 @@
         width: 300px;
         height: 290px
     }
+    .service_sc3 .service_list.c2 li {
+        margin-right: 100px
+    }
+    .service_sc3 .service_list.c2 li:nth-child(3n) {
+        margin-right: 0
+    }
+    .service_sc3 .service_list.c2 li .list_box {
+        width: 450px;
+        height: 290px
+    }
     .service_sc3 .service_list li {
         margin-bottom: 50px;
         float: left
@@ -3062,7 +3075,8 @@
         margin-left: -10px
     }
     .service_sc3 .service_list .list_box img {
-        margin-bottom: 35px!important
+        margin-bottom: 35px!important;
+        width: 80px;
     }
     .service_sc3 .service_list .list_box p {
         padding: 0 5px 10px;
@@ -3163,7 +3177,8 @@
         margin-left: -10px
     }
     .service_sc4 .service_list .list_box img {
-        margin-bottom: 35px
+        margin-bottom: 35px;
+        width: 80px;
     }
     .service_sc4 .service_list .list_box p {
         padding: 0 5px 10px;
@@ -5615,7 +5630,7 @@
     }
     .nav_sns_list {
         position: fixed;
-        bottom: 3%;
+        bottom: 40%;
         left: 50px;
     }
     .nav_sns_list li {
@@ -6507,8 +6522,7 @@
         margin: 0 auto 5%
     }
     .service_sc1 .service_list .list_box {
-        background-color: #aabdca;
-        background-color: rgba(161, 182, 196, .8);
+        background-color: #a8a39f;
         box-sizing: border-box;
         padding: 30px 25px 25px;
         text-align: center;
@@ -6549,8 +6563,9 @@
         vertical-align: bottom
     }
     .service_sc2 .tl_h2 img {
-        height: 16px;
-        width: auto
+        height: 36px;
+        width: auto;
+        margin-left: 12%;
     }
     .service_sc2 .tl_h2 span {
         margin-top: 10px;
@@ -6617,8 +6632,7 @@
         margin: 0 auto 5%
     }
     .service_sc2 .service_list .list_box {
-        background-color: #aabdca;
-        background-color: rgba(161, 182, 196, .8);
+        background-color: #a8a39f;
         box-sizing: border-box;
         padding: 30px 25px 25px;
         text-align: center;
@@ -6659,8 +6673,9 @@
         vertical-align: bottom
     }
     .service_sc3 .tl_h2 img {
-        height: 16px;
-        width: auto
+        height: 36px;
+        width: auto;
+        margin-left: 12%;
     }
     .service_sc3 .tl_h2 span {
         margin-top: 10px;
@@ -6717,8 +6732,7 @@
         margin: 0 auto 5%
     }
     .service_sc3 .service_list .list_box {
-        background-color: #aabdca;
-        background-color: rgba(161, 182, 196, .8);
+        background-color: #a8a39f;
         box-sizing: border-box;
         padding: 30px 25px 25px;
         text-align: center;
@@ -6758,9 +6772,9 @@
         vertical-align: bottom
     }
     .service_sc4 .tl_h2 img {
-        height: 40px;
+        height: 36px;
         width: auto;
-        transform: translateX(1%);
+        margin-left: 12%;
     }
     .service_sc4 .tl_h2 span {
         margin-top: 10px;
@@ -6820,8 +6834,7 @@
         top: 15%
     }
     .service_sc4 .service_list .list_box {
-        background-color: #aabdca;
-        background-color: rgba(161, 182, 196, .8);
+        background-color: #a8a39f;
         box-sizing: border-box;
         padding: 30px 25px 25px;
         text-align: center;
