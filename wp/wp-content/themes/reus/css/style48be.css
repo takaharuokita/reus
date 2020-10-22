@@ -6188,7 +6188,8 @@
         margin-bottom: 45px
     }
     .aboutus_sc1 .img_box img {
-        width: 80%
+        width: 80%;
+        display: none;
     }
     .aboutus_sc2 .sc_inner {
         width: 100%;
