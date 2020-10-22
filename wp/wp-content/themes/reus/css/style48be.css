@@ -5630,8 +5630,8 @@
     }
     .nav_sns_list {
         position: fixed;
-        top: 230px;
-        right: 20px;
+        top: 168px;
+        right: 55px;
     }
     .nav_sns_list li {
         text-align: center;
