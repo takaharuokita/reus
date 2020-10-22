@@ -2843,7 +2843,7 @@
     .service_sc1 .service_list .list_box {
         background-color: #a8a39f;
         box-sizing: border-box;
-        padding: 40px 25px 35px;
+        padding: 25px 25px 35px;
         text-align: center
     }
     .service_sc1 .service_list .list_box h3 {
