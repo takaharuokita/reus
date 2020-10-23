@@ -1914,14 +1914,21 @@
         width: 1000px;
         margin: 0 auto
     }
+    .container h3 {
+        font-size: 24px;
+        margin: 10px auto;
+    }
+    .container h4 {
+        font-size: 16px
+    }
     .contact_head p {
-        font-size: 15px;
+        font-size: 18px;
         line-height: 34px;
         text-align: center;
         margin-bottom: 115px
     }
     .contact_head p a {
-        color: #0c2041;
+        color: #806e66;
         text-decoration: underline
     }
     .contact_head p a:hover {
@@ -4112,7 +4119,8 @@
         margin-left: 10%;
         overflow-x: hidden;
         position: relative;
-        z-index: 10001
+        z-index: 10001;
+        height: 85%;
     }
     .gnav_list li:nth-child(0) {
         margin-bottom: 40px
@@ -5630,8 +5638,8 @@
     }
     .nav_sns_list {
         position: fixed;
-        top: 168px;
-        right: 55px;
+        top: 300px;
+        right: 85px;
     }
     .nav_sns_list li {
         text-align: center;
@@ -5685,8 +5693,18 @@
         text-align: center;
         margin-bottom: 70px
     }
+    .container h3 {
+        font-size: 24px;
+        margin: 10px auto;
+    }
+    .container h4 {
+        font-size: 16px
+    }
+    .container a {
+        color: #806e66;
+    }
     .contact_head p a {
-        color: #0c2041;
+        color: #806e66;
         text-decoration: underline
     }
     .step {
@@ -6479,7 +6497,9 @@
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top right;
-        height: 300px
+        height: 300px;
+        background-blend-mode: lighten;
+        background-color: #ffffff91;
     }
     .service_sc1 .h2_txt {
         color: #fff;
@@ -6589,7 +6609,9 @@
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top right;
-        height: 300px
+        height: 300px;
+        background-blend-mode: lighten;
+        background-color: #ffffff91;
     }
     .service_sc2 .h2_txt {
         color: #fff;
@@ -6676,7 +6698,7 @@
     .service_sc3 .tl_h2 img {
         height: 36px;
         width: auto;
-        margin-left: 12%;
+        margin-left: 13%;
     }
     .service_sc3 .tl_h2 span {
         margin-top: 10px;
@@ -6699,7 +6721,9 @@
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top right;
-        height: 325px
+        height: 325px;
+        background-blend-mode: lighten;
+        background-color: #ffffff91;
     }
     .service_sc3 .h2_txt {
         color: #fff;
@@ -6775,7 +6799,7 @@
     .service_sc4 .tl_h2 img {
         height: 36px;
         width: auto;
-        margin-left: 12%;
+        margin-left: 6%;
     }
     .service_sc4 .tl_h2 span {
         margin-top: 10px;
@@ -6798,7 +6822,9 @@
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top right;
-        height: 320px
+        height: 320px;
+        background-blend-mode: lighten;
+        background-color: #ffffff91;
     }
     .service_sc4 .h2_txt {
         color: #fff;
